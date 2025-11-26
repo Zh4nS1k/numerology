@@ -34,10 +34,10 @@ gradlew.bat bootRun    # Windows
   - Тело запроса (JSON):
     ```json
     {
-      "name": "Айжан",
-      "day": 12,
+      "name": "Алуа",
+      "day": 15,
       "month": 7,
-      "year": 1995
+      "year": 2005
     }
     ```
   - Ответ: объект с рассчитанными числами, их описанием и полем `aiAnalysis` с выводом GPT.
